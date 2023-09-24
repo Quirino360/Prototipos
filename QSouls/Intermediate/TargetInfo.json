@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "QSouls",
+			"Path": "C:\\Users\\PC\\Documents\\School\\Unreal\\Prototipos\\QSouls\\Source\\QSouls.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "QSoulsEditor",
+			"Path": "C:\\Users\\PC\\Documents\\School\\Unreal\\Prototipos\\QSouls\\Source\\QSoulsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

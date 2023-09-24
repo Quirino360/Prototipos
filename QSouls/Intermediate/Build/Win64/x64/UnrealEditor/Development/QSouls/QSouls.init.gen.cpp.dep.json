@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc\\documents\\school\\unreal\\prototipos\\qsouls\\intermediate\\build\\win64\\unrealeditor\\inc\\qsouls\\uht\\qsouls.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc\\documents\\school\\unreal\\prototipos\\qsouls\\intermediate\\build\\win64\\x64\\qsoulseditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\pc\\documents\\school\\unreal\\prototipos\\qsouls\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\qsouls\\definitions.qsouls.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
