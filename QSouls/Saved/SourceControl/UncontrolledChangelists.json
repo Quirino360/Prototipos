@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Lab03 Docente/Documents/Quirino/Prototipos/QSouls/Content/ThirdPerson/Blueprints/ANS_HitDetection.uasset",
+				"C:/Users/Lab03 Docente/Documents/Quirino/Prototipos/QSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Lab03 Docente/Documents/Quirino/Prototipos/QSouls/Content/ARPG_Warrior/Animations/Attack/AM_Attack_00.uasset",
+				"C:/Users/Lab03 Docente/Documents/Quirino/Prototipos/QSouls/Content/ARPG_Warrior/Animations/Attack/AM_Attack_01.uasset",
+				"C:/Users/Lab03 Docente/Documents/Quirino/Prototipos/QSouls/Content/ARPG_Warrior/Animations/Attack/AM_Attack_02.uasset",
+				"C:/Users/Lab03 Docente/Documents/Quirino/Prototipos/QSouls/Content/ARPG_Warrior/Animations/Attack/AM_Attack_03.uasset",
+				"C:/Users/Lab03 Docente/Documents/Quirino/Prototipos/QSouls/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ML/K1YCYB23MJXGP4UPVR2OUT.uasset",
 				"C:/Users/PC/Documents/School/Unreal/Prototipos/QSouls/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/PC/Documents/School/Unreal/Prototipos/QSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/PC/Documents/School/Unreal/Prototipos/QSouls/Content/ARPG_Warrior/Animations/Attack/ARPG_Warrior_Anim_UE_Attack_Airborne_End.uasset",
