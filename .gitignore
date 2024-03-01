@@ -73,15 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-QSouls/Content/Megascans/Surfaces/Curated_Stone_Facade/MI_Curated_Stone_Facade_vjqifhu_8K.uasset
-QSouls/Content/Megascans/Surfaces/Curated_Stone_Facade/T_Curated_Stone_Facade_vjqifhu_8K_D.uasset
-QSouls/Content/Megascans/Surfaces/Curated_Stone_Facade/T_Curated_Stone_Facade_vjqifhu_8K_N.uasset
-QSouls/Content/Megascans/Surfaces/Curated_Stone_Facade/T_CuratedStoneFacade_vjqifhu_8K_ORDp.uasset
-QSouls/Content/Megascans/Surfaces/Mossy_Grass/MI_Mossy_Ground_vl1lfb3fw_8K.uasset
-QSouls/Content/Megascans/Surfaces/Mossy_Grass/T_Mossy_Ground_vl1lfb3fw_8K_D.uasset
-QSouls/Content/Megascans/Surfaces/Mossy_Grass/T_Mossy_Ground_vl1lfb3fw_8K_N.uasset
-QSouls/Content/Megascans/Surfaces/Mossy_Grass/T_MossyGround_vl1lfb3fw_8K_ORDp.uasset
-QSouls/Content/Megascans/Surfaces/Mossy_Ground/MI_Mossy_Ground_xeunbh1_8K.uasset
-QSouls/Content/Megascans/Surfaces/Mossy_Ground/T_Mossy_Ground_xeunbh1_8K_D.uasset
-QSouls/Content/Megascans/Surfaces/Mossy_Ground/T_Mossy_Ground_xeunbh1_8K_N.uasset
-QSouls/Content/Megascans/Surfaces/Mossy_Ground/T_MossyGround_xeunbh1_8K_ORDp.uasset
+QSouls/Content/Megascans/Surfaces/
+
+
